@@ -1,3 +1,3 @@
 var x = 10;
-x=50;
+x=30;
 console.log(x);
